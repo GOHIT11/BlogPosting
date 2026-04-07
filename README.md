@@ -185,14 +185,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-*GOHIT11*  
-GitHub: [@GOHIT11](https://github.com/GOHIT11)
-*akmal-07*  
+**GOHIT11**  
+GitHub: [@GOHIT11](https://github.com/GOHIT11) 
+**akmal-07**  
 GitHub: [@akmal-07](https://github.com/akmal-07)
-*saiharshagodavarthi*  
+**saiharshagodavarthi**  
 GitHub: [@saiharshagodavarthi](https://github.com/saiharshagodavarthi)
-*pavanguvvala*  
+**pavanguvvala**  
 GitHub: [@pavanguvvala](https://github.com/pavanguvvala)
----
 
+---
 > ⭐ If you like this project, give it a star on GitHub!
